@@ -1,2 +1,2 @@
-# Student-Planner
+# Student Tracker Expense
 Practice 2
